@@ -1,1 +1,5 @@
 # HDC
+
+HyperDimensional Computing
+
+
