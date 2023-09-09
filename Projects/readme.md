@@ -25,5 +25,14 @@ Introduce free and open source projects for HDC
 - [ ] Paper: A. Rahimi, P. Kanerva, and J. M. Rabaey "A Robust and Energy-Efficient Classifier Using Brain-Inspired Hyperdimensional Computing," In ACM/IEEE International Symposium on Low-Power Electronics and Design (ISLPED), 2016.
 
 
+# hdlib
+
+- [ ] Project: [Hyperdimensional Computing Library](https://github.com/MHersche/hdlib)
+- [ ] Language: Python
+
+> Optimizations
+- [ ] Projects: [Hyperdimensional Computing Library with GPU](https://github.com/skurella/hdlib)
+
+
 
 
