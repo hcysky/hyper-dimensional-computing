@@ -41,5 +41,12 @@ Introduce free and open source projects for HDC
 - [ ] Projects: [Hyperdimensional Computing Library with GPU](https://github.com/skurella/hdlib)
 
 
+# PyBHV
+
+A rich research framework for hyperdimensional computing on large boolean vectors supporting program transformation and multiple backends for computation (plain Python, C++, NumPy, PyTorch). Many metrics and utility functions aim to aid the intuitive understanding of this new paradigm, and there are multiple levels of functionality available from the data marshalling and the basic (XOR, MAJ, PERMUTE)-algebra to cryptography support. All vector operations are implemented in C(++) and make use of bit-packing and SIMD, subprograms can be optimized and compiled to these operations in Python or C, and parallelization and pipelining are planned.
+If your application is a relatively direct pipeline, take a look at HDCC. If you want a more stable library, or want to work with another base field than the booleans, use torch-hd.
+
+- [ ] Project: [Python Boolean Hyper-Vectors [WIP]](https://github.com/Adam-Vandervorst/PyBHV)
+
 
 
