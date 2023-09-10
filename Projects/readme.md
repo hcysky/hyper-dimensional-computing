@@ -11,6 +11,7 @@ Introduce free and open source projects for HDC
 > Torchhd is a Python library for Hyperdimensional Computing (also known as Vector Symbolic Architectures).
 
 - [ ] Project: [torchd](https://github.com/hyperdimensional-computing/torchhd)
+- [ ] Examples: [Torchhd documentation](https://torchhd.readthedocs.io/en/stable/index.html)
 - [ ] Paper: Heddes, Mike, et al. "Torchhd: An Open Source Python Library to Support Research on Hyperdimensional Computing and Vector Symbolic Architectures." Journal of Machine Learning Research 24.255 (2023): 1-10.
 
 
