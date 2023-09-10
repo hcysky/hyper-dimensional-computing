@@ -48,5 +48,26 @@ If your application is a relatively direct pipeline, take a look at HDCC. If you
 
 - [ ] Project: [Python Boolean Hyper-Vectors [WIP]](https://github.com/Adam-Vandervorst/PyBHV)
 
+# HD-Classification
+
+- [ ] Project: [CPU FPGA GPU dataset](https://github.com/UCSD-SEELab/HD-Classification/tree/master)
+- [ ] Language: C++
+
+
+# OpenHD
+
+OpenHD - A GPU-Powered Framework for Hyperdimensional Computing
+The OpenHD framework enables the GPU-based execution of HD Computing using JIT-like compliation written in Python fo high efficiency. For the implementation details, please refer to our papers in the references section below.
+
+- [ ] Project: [openhd](https://github.com/UCSD-SEELab/openhd)
+- [ ] Papers: OpenHD: A GPU-Powered Framework for Hyperdimensional Computing; XCelHD: An efficient GPU-powered hyperdimensional computing with parallelized training
+
+# HamHD
+
+HamHD: Spam Text Detection using Hyperdimensional Computing
+
+- [ ] Language: Python
+- [ ] Datasets: [Kaggle](https://www.kaggle.com/datasets) such as [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) and [YouTube Spam Collection Data Set](https://www.kaggle.com/datasets/lakshmi25npathi/images)
+
 
 
