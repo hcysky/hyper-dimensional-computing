@@ -5,7 +5,9 @@ HPU is a programmable accelerator that enhance "Hyperdimensional Computing (HDC)
 - The figure on the right shows an overview of the HD core, which is the unit responsible for encoding processes such as Bind and Permutation.
 
 <div align="center">
-<img src="docs/hpu_arch.png" width="550">  <img src="Images/hdcore_arch.png" width="450">
+<img src="docs/hpu_arch.png" width="550"> 
 </div>
 
-
+<div align="center">
+<img src="Images/hdcore_arch.png" width="450">
+</div>
